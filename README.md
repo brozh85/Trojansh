@@ -15,6 +15,7 @@ YouTube频道：波仔分享
 
 为了适合新手小伙伴，本代码分解三部分：
 
+apt-get install wget
 
 wget -N --no-check-certificate "https://raw.githubusercontent.com/V2RaySSR/Trojansh/master/trojan1.sh" && chmod +x trojan1.sh && ./trojan1.sh
 
